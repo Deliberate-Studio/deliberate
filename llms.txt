@@ -1,0 +1,14 @@
+# Deliberate
+
+> Deliberate is an AI agent team for consumer brands, built on Claude. Eleven named agents share one memory of a brand's business and run its day-to-day work (ads and creative, creators, email, customer support, finance, operations, Amazon, wholesale, the website, people ops) on the brand's own data. A person approves everything that ships.
+
+Deliberate sells to consumer and DTC brands, starting with connected-product brands (hardware plus app plus subscription). Brands hire agents month to month with no annual contract and no cut of sales or ad spend; usage-based credits billed through a Shopify App are coming. Founder: Matt Hassett, also founder and CEO of Loftie, which runs on Deliberate.
+
+## Docs
+- [Overview](https://github.com/Deliberate-Studio/deliberate/blob/main/README.md): what Deliberate is, the agents, trust and safety
+- [How it works](https://github.com/Deliberate-Studio/deliberate/blob/main/docs/how-it-works.md): shared memory, the approval loop, staged autonomy, integrations
+- [Security](https://github.com/Deliberate-Studio/deliberate/blob/main/docs/security.md): isolation per brand, allow-lists, approvals, audit
+- [MCP connector](https://github.com/Deliberate-Studio/deliberate/blob/main/docs/mcp-connector.md): use Deliberate from Claude, ChatGPT or Grok
+
+## Optional
+- [Website](https://deliberatestudio.com)

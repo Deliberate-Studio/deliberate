@@ -59,7 +59,7 @@ Brands hire the agents they need, month to month, with no annual contract and ne
 
 ## Proof
 
-Deliberate runs Loftie, the sleep-wellness brand behind the Loftie Clock (New York Times Wirecutter's best alarm clock six years running). Loftie replaced Siena with Deliberate.
+Deliberate runs Loftie, the sleep-wellness brand behind the Loftie Clock (New York Times Wirecutter's best alarm clock six years running).
 
 ## Contact
 

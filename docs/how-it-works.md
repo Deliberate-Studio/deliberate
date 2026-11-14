@@ -25,4 +25,4 @@ That memory is organized as a research library. A librarian agent (Dorothy) keep
 
 ## Integrations
 
-Shopify, Meta Ads, Google Ads, Klaviyo, Gorgias, Gmail, Google Drive, Slack, QuickBooks, Recharge, Okendo, Triple Whale, ShipBob, ShipHero, Amazon Seller Central and Amazon Ads, YouTube, Typeform and others. When a tool has no API, a browser extension guides a person through it.
+Shopify, Meta Ads, Google Ads, Klaviyo, Gorgias, Gmail, Google Drive, Slack, Recharge, Okendo, ShipBob, ShipHero, Amazon Seller Central, YouTube, Typeform and others. When a tool has no API, a browser extension guides a person through it.

@@ -1,6 +1,6 @@
 # Deliberate
 
-Deliberate is an AI agent team for consumer brands. Named agents share one memory of the business and run its day-to-day work: ads and creative, email, customer support and operations, with creators, finance, Amazon, wholesale and the website in beta. They read the brand's own data every day, propose work with the evidence attached, and carry it out once a person approves.
+Deliberate is an AI agent team for consumer brands. Named agents share one memory of the business and run its day-to-day work: ads and creative, email, customer support, operations and an assistant, with creators, finance, Amazon, wholesale and the website in beta. They read the brand's own data every day, propose work with the evidence attached, and carry it out once a person approves.
 
 This repository explains how Deliberate works, for the people evaluating it and for the AI agents that read about it. The platform itself is closed source.
 
@@ -56,7 +56,7 @@ The Deliberate app, Slack and Gmail, plus inside Claude, ChatGPT and Grok throug
 
 ## Pricing
 
-Brands hire the agents they need, month to month, with no annual contract and never a cut of sales or ad spend. Usage-based credits, billed through the Shopify App, are coming soon. Current pricing is on [deliberatestudio.com](https://deliberatestudio.com).
+Brands hire the agents they need, month to month, with no annual contract and never a cut of sales or ad spend. Plans are billed through Shopify, and past the included work a brand pays for what it uses. Company Brain installs on Shopify; the Agent Team is onboarding brands now. Current pricing is on [deliberatestudio.com](https://deliberatestudio.com).
 
 ## Proof
 

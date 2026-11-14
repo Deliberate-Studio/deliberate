@@ -2,7 +2,7 @@
 
 ## One memory, many agents
 
-Deliberate keeps one memory per brand: what the store sells, what customers say, what the ads have done, what the books show, and every finding a person or agent has written down. Each agent reads from it and writes back to it, so what one agent learns reaches the others. The support agent's read on why customers return a product shapes the next ad brief and the next email.
+Deliberate keeps one memory per brand: what the store sells, what customers say, what the ads have done, how margins are trending, and every finding a person or agent has written down. Each agent reads from it and writes back to it, so what one agent learns reaches the others. The support agent's read on why customers return a product shapes the next ad brief and the next email.
 
 That memory is organized as a research library. A librarian agent (Dorothy) keeps an index of the most current finding on each topic, so agents start from today's answer instead of a year-old one.
 

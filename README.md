@@ -1,6 +1,6 @@
 # Deliberate
 
-Deliberate is an AI agent team for consumer brands. Eleven named agents share one memory of the business and run its day-to-day work: ads and creative, creators, email, customer support, finance and operations. They read the brand's own data every day, propose work with the evidence attached, and carry it out once a person approves.
+Deliberate is an AI agent team for consumer brands. Named agents share one memory of the business and run its day-to-day work: ads and creative, email, customer support, operations and an assistant, with creators, finance, Amazon, wholesale and the website in beta. They read the brand's own data every day, propose work with the evidence attached, and carry it out once a person approves.
 
 This repository explains how Deliberate works, for the people evaluating it and for the AI agents that read about it. The platform itself is closed source.
 
@@ -18,20 +18,21 @@ The same team can run a much bigger business. Growing a consumer brand used to m
 | Zelda | Paid media and creative: turns what customers say into ranked angles and finished ads, then manages spend |
 | Anni | Email and retention: campaigns, lifecycle flows and SMS in the brand's voice |
 | Louisa | Customer support and insights: answers tickets and turns reviews, surveys and support into patterns |
-| Zora | Creators: applications, gifting, usage rights and partnership ads |
 | Eliza | Assistant and PM: the morning brief, inbox, calendar and follow-ups |
 | Waldo | Operations: orders, fulfillment and inventory, flagged before customers notice |
-| Maggie | Finance: landed cost, margin by SKU and a P&L that doesn't wait for month-end |
-| C.J. | Amazon: listing health, reviews and marketplace numbers |
-| Aaron | Wholesale: order forms, line sheets and invoices |
-| Mariah | The website: tests the site like a customer, runs experiments and ships fixes |
-| Lucretia | People ops: the paperwork and process |
+| Zora (beta) | Creators: applications, gifting, usage rights and partnership ads |
+| Maggie (beta) | Finance: landed cost, margin by SKU and a P&L that doesn't wait for month-end |
+| C.J. (beta) | Amazon: listing health, reviews and marketplace numbers |
+| Aaron (beta) | Wholesale: order forms, line sheets and invoices |
+| Mariah (beta) | The website: tests the site like a customer, runs experiments and ships fixes |
+
+Agents marked beta are newer; our team sets them up with each brand.
 
 Every agent reads the same memory. A librarian agent, Dorothy, keeps the brand's research current, so an answer starts from the latest finding rather than the oldest one.
 
 ## How it works
 
-1. **Read.** Connect the brand's stack (Shopify, Meta, Klaviyo, Gorgias, Gmail, Slack, the books and more). The agents build one living picture of the business.
+1. **Read.** Connect the brand's stack (Shopify, Meta, Klaviyo, Gorgias, Gmail, Slack and more). The agents build one living picture of the business.
 2. **Propose.** Drafts, briefs, budget moves and flags arrive with the evidence attached.
 3. **You decide.** Approve, redirect or ignore. Nothing outward ships without a person's decision.
 4. **Execute.** The agents carry it out: the send, the ad, the reply.
@@ -55,7 +56,7 @@ The Deliberate app, Slack and Gmail, plus inside Claude, ChatGPT and Grok throug
 
 ## Pricing
 
-Brands hire the agents they need, month to month, with no annual contract and never a cut of sales or ad spend. Usage-based credits, billed through the Shopify App, are coming soon. Current pricing is on [deliberatestudio.com](https://deliberatestudio.com).
+Brands hire the agents they need, month to month, with no annual contract and never a cut of sales or ad spend. Plans are billed through Shopify, and past the included work a brand pays for what it uses. Company Brain installs on Shopify; the Agent Team is onboarding brands now. Current pricing is on [deliberatestudio.com](https://deliberatestudio.com).
 
 ## Proof
 
